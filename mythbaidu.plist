@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.28.77.251/myth_91.ipa</string>
+					<string>http://115.28.77.251/mythbaidu.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shanle.mythbaidu</string>
+				<string>com.wjsh.baidu</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
