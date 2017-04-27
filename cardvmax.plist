@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.28.200.145/cardvmax.ipa</string>
+					<string>https://gif5.club/Pak/fish.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.giant.cardvmax</string>
+				<string>com.ztgame.ztmyseabed</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cardvmax</string>
+				<string>我的海底</string>
 			</dict>
 		</dict>
 	</array>
